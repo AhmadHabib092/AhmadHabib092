@@ -6,11 +6,17 @@
 
 <ul align="left">
     <li><strong>Front-End Web Development:</strong> I specialize in crafting visually appealing and user-friendly websites. My expertise in HTML, CSS, and JavaScript allows me to build responsive designs that provide seamless user experiences. I am well-versed in modern front-end frameworks and libraries, ensuring that my projects are not only aesthetically pleasing but also efficient and scalable.</li>
+    <br>
     <li><strong>Graphic Design:</strong> My creative flair shines through in my graphic design work. Using tools like Canva and Adobe Photoshop, I bring ideas to life with stunning visuals. Whether it's designing logos, social media graphics, or marketing materials, I focus on creating designs that resonate with the target audience and effectively communicate the intended message.</li>
+    <br>
     <li><strong>Video Editing:</strong> I have a strong command over video editing, utilizing tools such as CapCut PC to produce high-quality videos. My editing skills span various aspects of video production, including cutting, trimming, adding effects, and ensuring smooth transitions. I aim to create engaging content that captivates viewers and enhances the storytelling process.</li>
+    <br>
     <li><strong>Entrepreneurial Spirit:</strong> As the Co-Founder of VestaZone and a Web Developer at Mind Expanders, I blend my technical prowess with business acumen. At VestaZone, I have been instrumental in developing and managing an e-commerce platform that offers a diverse range of products. My role involves not only web development but also strategic planning, marketing, and ensuring a smooth user experience. My work at Mind Expanders further exemplifies my commitment to education and technology, where I contribute to the development of educational resources and tools.</li>
+    <br>
     <li><strong>Technical Expertise:</strong> My proficiency spans multiple programming languages, including C, C++, and Java, allowing me to tackle complex problems and develop robust solutions. I am adept at using tools like IntelliJ IDEA and VS Code, which are integral to my development process. My technical toolkit is complemented by a strong understanding of algorithms, data structures, and software development principles, ensuring that I can deliver high-quality code that meets industry standards.</li>
+    <br>
     <li><strong>Innovative Vision:</strong> Driven by a vision to integrate technology with commerce for societal good, I constantly seek ways to innovate and make a positive impact. I believe in the power of technology to transform lives and am committed to leveraging my skills to create solutions that address real-world challenges. My entrepreneurial ventures are guided by a desire to make technology accessible, user-friendly, and beneficial to a broad audience.</li>
+    <br>
     <li><strong>Continuous Learning:</strong> I am a lifelong learner, always on the lookout for new technologies and methodologies to enhance my skillset. My journey in Computer Science is fueled by curiosity and a desire to stay ahead of the curve. I actively participate in workshops, online courses, and industry conferences to keep myself updated with the latest trends and best practices.</li>
 </ul>
 
