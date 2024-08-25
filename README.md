@@ -1,3 +1,5 @@
+<h1 align="left">Greetings! 👋 I'm Muhammad Ahmad Habib,</h1>
+
 <p align="left">A forward-thinking Computer Science scholar with a knack for front-end web development, graphic design, and video editing. I thrive on exploring the depths of Computer Science, evident through my participation in esteemed competitions and entrepreneurial ventures. As the Co-Founder at VestaZone and Web Developer at Mind Expanders, I blend technical prowess with business acumen. My expertise spans languages like C, C++, Java, HTML, CSS, and JavaScript, alongside tools such as Intellij Idea and VS Code. Additionally, I wield creative flair in graphic design using Canva and Photoshop, as well as proficient video editing skills with CapCut PC. Driven by the vision to integrate technology with commerce for societal good, I aspire to make a positive impact through innovation.</p>
 
 ###
