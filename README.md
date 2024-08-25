@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad Habibb</h1>
-<h3 align="center">A passionate frontend developer </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhabib092&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhabib092" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhabib092" alt="ahmadhabib092" /></a> </p>
-
 <p align="left">A forward-thinking Computer Science scholar with a knack for front-end web development, graphic design, and video editing. I thrive on exploring the depths of Computer Science, evident through my participation in esteemed competitions and entrepreneurial ventures. As the Co-Founder at VestaZone and Web Developer at Mind Expanders, I blend technical prowess with business acumen. My expertise spans languages like C, C++, Java, HTML, CSS, and JavaScript, alongside tools such as Intellij Idea and VS Code. Additionally, I wield creative flair in graphic design using Canva and Photoshop, as well as proficient video editing skills with CapCut PC. Driven by the vision to integrate technology with commerce for societal good, I aspire to make a positive impact through innovation.</p>
 
 ###
@@ -14,7 +7,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Habibb</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhabib092&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhabib092" /> </p>
 
