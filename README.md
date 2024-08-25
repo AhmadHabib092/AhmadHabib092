@@ -24,10 +24,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Habibb</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhabib092&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhabib092" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhabib092" alt="ahmadhabib092" /></a> </p>
-
 - 🔭 I’m currently working on [VestaZone (eCommerce Website))](https://vestazone.com/)
 
 - 🌱 I’m currently learning **Comsats Institute of Information Technology**
