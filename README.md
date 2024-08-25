@@ -34,13 +34,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-ahmad-habib-625911308/](https://www.linkedin.com/in/muhammad-ahmad-habib-625911308/)
 
-- 📝 I regularly write articles on [https://vestazone.com/blogs/Integrated-AI-Chat-Bot-of-VestaZone](https://vestazone.com/blogs/)
+- 📝 I regularly write articles on [https://vestazone.com/blogs/](https://vestazone.com/blogs/)
 
 - 💬 Ask me about **html, java, c++, python, css, js, Web dev, App Dev and othr IT related fields**
 
 - 📫 How to reach me **muhammadahmadhabib92@gmail.com**
 
-- 📄 Know about my experiences [ahmad.mindsters.org](ahmad.mindsters.org)  [vestazone.com](vestazone.com)
+- 📄 Know about my experiences [ahmad.mindsters.org](https://ahmad.mindsters.org)  [vestazone.com](https://vestazone.com/)
 
 - ⚡ Fun fact **Pro Web Developer, Also having Vast Skills of App Development. Having strong commands in all IT Fields**
 
