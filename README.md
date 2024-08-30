@@ -50,16 +50,6 @@
 
 - ⚡ Fun fact **Pro Web Developer, Also having Vast Skills of App Development. Having strong commands in all IT Fields**
 
-###
-
-<h1 align="left">📊 My GitHub Stats,</h1>
-
-###
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app?username=ibnearshaddotcom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
@@ -136,6 +126,16 @@
 <a href="https://instagram.com/muhammadahmadhabib92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadahmadhabib92" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vestazonedotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vestazonedotcom" height="30" width="40" /></a>
 </p>
+###
+
+<h1 align="left">📊 My GitHub Stats,</h1>
+
+###
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app?username=ibnearshaddotcom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
 
