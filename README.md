@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad Habibb</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad Habib</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [VestaZone (eCommerce Website))](https://vestazone.com/)
